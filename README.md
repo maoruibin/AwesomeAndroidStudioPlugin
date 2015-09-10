@@ -17,5 +17,5 @@
 [GitignorePlugin](https://github.com/hsz/idea-gitignore) | [下载](https://plugins.jetbrains.com/plugin/7495) | 帮助生成ignore文件的插件
 [GsonFormat](https://github.com/zzz40500/GsonFormat) | [下载](https://plugins.jetbrains.com/plugin/download?pr=androidstudio&updateId=21015) | 根据Gson库使用的要求,将JSONObject格式的String 解析成实体
 [AndroidFileGroup](https://github.com/dmytrodanylyk/folding-plugin) | [下载](https://github.com/dmytrodanylyk/folding-plugin/releases) | 帮助项目生成虚拟文件组，方便管理项目
-[eventbus](https://github.com/kgmyshin/eventbus-intellij-plugin) | [下载](https://github.com/kgmyshin/eventbus-intellij-plugin/raw/master/eventbus-intellij-plugin.jar) | Plugin to navigate between events posted by EventBus.
-[FIRPlugin](https://github.com/FIRHQ/FIR_Plugin_Android) | [下载](https://plugins.jetbrains.com/plugin/7640?pr=androidstudio) | 一键上传应用到fir.im
+[ADB Idea](https://github.com/pbreault/adb-idea) | [下载](http://plugins.jetbrains.com/plugin/7380?pr=idea) | 一个将ADB操作可视化的插件，具体可以用它启动App、清除数据等
+[FIRPlugin](https://github.com/FIRHQ/FIR_Plugin_Android) | [下载](https://plugins.jetbrains.com/plugin/7640?pr=androidstudio) | 一键上传应用到fir.im，[关于Fir](http://fir.im/apps/new)
