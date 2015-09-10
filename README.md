@@ -1,8 +1,7 @@
 # AndroidStudio常用插件
-在使用AndroidStudio的过程中，如果在合适的场景下使用合适的插件，往往会事倍功半。但是，往往很多人，自始至终都不知道一些插件工具的存在，所以即使遇到了一些重复性很强的工作，也还是用最原始的方法解决。
-<br>这里就收集了一些开发过程中常用的工具插件，你可能不会立即将它应用到自己项目中来，但是了解它的用途，还是很有必要的，因为谁也不能保证以后用不到，这样，当以后遇到使用场景时，就可以知道有更加便捷的方式，可以帮助我们完成一些工作了。
+在使用AndroidStudio的过程中，如果在合适的场景下使用合适的插件，往往会事倍功半。
+<br>这里就收集了一些开发过程中常用的工具插件，欢迎补充添加！
 <br><br>
-如果你还有插件要添加进来，欢迎添加
 > 添加规范：  
 > `[名称](链接) [下载地址](链接)| 简单介绍`
 
@@ -19,3 +18,8 @@
 [AndroidFileGroup](https://github.com/dmytrodanylyk/folding-plugin) | [下载](https://github.com/dmytrodanylyk/folding-plugin/releases) | 帮助项目生成虚拟文件组，方便管理项目
 [ADB Idea](https://github.com/pbreault/adb-idea) | [下载](http://plugins.jetbrains.com/plugin/7380?pr=idea) | 一个将ADB操作可视化的插件，具体可以用它启动App、清除数据等
 [FIRPlugin](https://github.com/FIRHQ/FIR_Plugin_Android) | [下载](https://plugins.jetbrains.com/plugin/7640?pr=androidstudio) | 一键上传应用到fir.im，[关于Fir](http://fir.im/apps/new)
+
+####附录
+* 从本地安装插件
+Preferences/Settings->Plugins->Install plugin from disk
+![install_from_local](/img/14.pic.jpg "")
