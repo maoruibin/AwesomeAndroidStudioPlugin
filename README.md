@@ -14,6 +14,7 @@
 [ParcelableCodeGenerator](https://github.com/mcharmas/android-parcelable-intellij-plugin) | [下载](https://github.com/mcharmas/android-parcelable-intellij-plugin/releases/download/0.6.1/android-parcelable-intellij-plugin-0.6.1.jar) | 自动生成Parcelable接口对应的实现代码
 [MaterialDesignIconGenerator](https://github.com/konifar/android-material-design-icon-generator-plugin) | [下载](https://github.com/konifar/android-material-design-icon-generator-plugin/raw/master/MaterialDesignIconGeneratorPlugin.jar) | 生成MaterialDesignerIcon到项目
 [GitignorePlugin](https://github.com/hsz/idea-gitignore) | [下载](https://plugins.jetbrains.com/plugin/7495) | 帮助生成ignore文件的插件
+[MarkDown](https://github.com/nicoulaj/idea-markdown) | [下载](https://plugins.jetbrains.com/plugin?id=5970) | 在AS中编辑Readme文件时，可以直观的预览最终的网页显示效果，对于经常在项目中写Readme的你，你一定需要
 [GsonFormat](https://github.com/zzz40500/GsonFormat) | [下载](https://plugins.jetbrains.com/plugin/download?pr=androidstudio&updateId=21015) | 根据Gson库使用的要求,将JSONObject格式的String 解析成实体
 [AndroidFileGroup](https://github.com/dmytrodanylyk/folding-plugin) | [下载](https://github.com/dmytrodanylyk/folding-plugin/releases) | 帮助项目生成虚拟文件组，方便管理项目
 [ADB Idea](https://github.com/pbreault/adb-idea) | [下载](http://plugins.jetbrains.com/plugin/7380?pr=idea) | 一个将ADB操作可视化的插件，具体可以用它启动App、清除数据等
