@@ -17,6 +17,7 @@
 [GsonFormat](https://github.com/zzz40500/GsonFormat) | [下载](https://plugins.jetbrains.com/plugin/download?pr=androidstudio&updateId=21015) | 根据Gson库使用的要求,将JSONObject格式的String 解析成实体
 [AndroidFileGroup](https://github.com/dmytrodanylyk/folding-plugin) | [下载](https://github.com/dmytrodanylyk/folding-plugin/releases) | 帮助项目生成虚拟文件组，方便管理项目
 [ADB Idea](https://github.com/pbreault/adb-idea) | [下载](http://plugins.jetbrains.com/plugin/7380?pr=idea) | 一个将ADB操作可视化的插件，具体可以用它启动App、清除数据等
+[AndroidWiFiADB](https://github.com/pedrovgs/AndroidWiFiADB) | [下载](https://plugins.jetbrains.com/plugin/7983) | 可以通过这个插件来达到无线调试应用的目的，摆脱数据线
 [FIRPlugin](https://github.com/FIRHQ/FIR_Plugin_Android) | [下载](https://plugins.jetbrains.com/plugin/7640?pr=androidstudio) | 一键上传应用到fir.im，关于[Fir](http://fir.im/apps/new)
 
 ####附录
