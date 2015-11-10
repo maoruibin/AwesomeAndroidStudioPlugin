@@ -23,7 +23,7 @@
 [AndroidWiFiADB](https://github.com/pedrovgs/AndroidWiFiADB) | [下载](https://plugins.jetbrains.com/plugin/7983) | 可以通过这个插件来达到无线调试应用的目的，摆脱数据线
 [FIRPlugin](https://github.com/FIRHQ/FIR_Plugin_Android) | [下载](https://plugins.jetbrains.com/plugin/7640?pr=androidstudio) | 一键上传应用到fir.im，关于[Fir](http://fir.im)
 [Android-DPI-Calculator](https://github.com/JerzyPuchalski/Android-DPI-Calculator) | [下载](https://plugins.jetbrains.com/plugin/7832?pr=androidstudio) | 方便计算出在不同目录(hdpi xhdpi xxhdpi..)下的DPI
-[Genymotion](https://www.genymotion.com) | [在线安装 | 最好用的Android模拟器
+[Genymotion](https://www.genymotion.com) | 在线安装 | 最好用的Android模拟器
 [Robotium Recorder](http://www.robotium.com) | 在线安装 | Robotium 自动化测试脚本录制工具
 
 ####附录
