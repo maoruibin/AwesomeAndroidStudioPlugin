@@ -1,11 +1,12 @@
 # AndroidStudio常用插件
-使用AndroidStudio的过程中，如果在合适的场景下使用合适的插件，往往会事倍功半。
+使用AndroidStudio的过程中，如果在合适的场景下使用合适的插件，往往会事半功倍。
 <br>这里就收集了一些开发过程中常用的工具插件，欢迎补充添加.
 <br><br>
 > 添加规范：  
 > `[名称](链接) [下载地址](链接)| 简单介绍`
+> `[名称](链接) | [Plugins] | 简单介绍`
 
-
+    [Plugins]说明是直接在仓库中可以获取安装的
 #### 插件列表
 名称 | 下载 | 介绍
 :------------- | :------------- | :-------------
@@ -22,6 +23,9 @@
 [AndroidWiFiADB](https://github.com/pedrovgs/AndroidWiFiADB) | [下载](https://plugins.jetbrains.com/plugin/7983) | 可以通过这个插件来达到无线调试应用的目的，摆脱数据线
 [FIRPlugin](https://github.com/FIRHQ/FIR_Plugin_Android) | [下载](https://plugins.jetbrains.com/plugin/7640?pr=androidstudio) | 一键上传应用到fir.im，关于[Fir](http://fir.im/apps/new)
 [FIRPlugin](https://github.com/FIRHQ/FIR_Plugin_Android) | [下载](https://plugins.jetbrains.com/plugin/7640?pr=androidstudio) | 一键上传应用到fir.im，关于[Fir](http://fir.im)
+[Android-DPI-Calculator](https://github.com/JerzyPuchalski/Android-DPI-Calculator) | [下载](https://plugins.jetbrains.com/plugin/7832?pr=androidstudio) | 方便计算出在不同目录(hdpi xhdpi xxhdpi..)下的DPI
+[Genymotion](https://www.genymotion.com) | [Plugins]() | 最好用的Android模拟器
+[Robotium Recorder](http://www.robotium.com) | [Plugins]() | Robotium 自动化测试脚本录制工具
 
 ####附录
 * 从本地安装插件
@@ -29,3 +33,8 @@
 Preferences/Settings->Plugins->Install plugin from disk
 <br>
 ![install_from_local](/img/14.pic.jpg "")
+
+* 直接从仓库安装插件
+<br>
+File/Settings(Ctrl+Alt+S)->Plugins->Browse repositories->
+<br>
