@@ -25,7 +25,7 @@
 [Android-DPI-Calculator](https://github.com/JerzyPuchalski/Android-DPI-Calculator) | [下载](https://plugins.jetbrains.com/plugin/7832?pr=androidstudio) | 方便计算出在不同目录(hdpi xhdpi xxhdpi..)下的DPI
 [Genymotion](https://www.genymotion.com) | 在线安装 | 最好用的Android模拟器
 [Robotium Recorder](http://www.robotium.com) | 在线安装 | Robotium 自动化测试脚本录制工具
-
+[material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) | 在线安装 | 一个非常好看的 AndroidStudio 皮肤插件，具体可查看 Github 项目
 ####附录
 * 从本地安装插件
 <br>
